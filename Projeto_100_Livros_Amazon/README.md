@@ -1,3 +1,7 @@
+## WebApp em Python analisando os 100 livros mais vendidos da Amazon
+
+### Usei IDE MuPython, bibliotecas como Pandas, Streamlit, Plotly.express
+
 ![image](https://github.com/user-attachments/assets/3229466e-3303-45b6-8006-0a61d063c772)
 
 ![image](https://github.com/user-attachments/assets/eb210b44-9fa8-4c92-8180-6c14cb0345f6)
